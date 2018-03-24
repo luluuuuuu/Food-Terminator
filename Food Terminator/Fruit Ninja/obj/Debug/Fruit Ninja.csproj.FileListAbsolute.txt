@@ -1,0 +1,36 @@
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe.config
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.pdb
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.csprojResolveAssemblyReference.cache
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Main.resources
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Properties.Resources.resources
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.csproj.GenerateResource.Cache
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.exe
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.pdb
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.SettingsForm.resources
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.HighscoresForm.resources
+F:\FINKI\Semestar 4\VP\Proektna\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.UserForm.resources
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe.config
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.exe
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.pdb
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.pdb
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.csprojResolveAssemblyReference.cache
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.HighscoresForm.resources
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Main.resources
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Properties.Resources.resources
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.SettingsForm.resources
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.UserForm.resources
+E:\切水果\Fruit-Ninja-master\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.csproj.GenerateResource.Cache
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe.config
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.exe
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.pdb
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.pdb
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.csprojResolveAssemblyReference.cache
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.HighscoresForm.resources
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Main.resources
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Properties.Resources.resources
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.SettingsForm.resources
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.UserForm.resources
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.csproj.GenerateResource.Cache

@@ -1,0 +1,35 @@
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe.config
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.exe
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\bin\Debug\Fruit Ninja.pdb
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Properties.Resources.resources
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Food Terminator.csproj.GenerateResource.Cache
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.exe
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit Ninja.pdb
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.HighscoresForm.resources
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.Main.resources
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.SettingsForm.resources
+E:\Food_terminator_可行版\Fruit Ninja\Fruit Ninja\obj\Debug\Fruit_Ninja.UserForm.resources
+E:\Food Terminator\Food Terminator\Fruit Ninja\bin\Debug\Fruit Ninja.exe.config
+E:\Food Terminator\Food Terminator\Fruit Ninja\obj\Debug\Fruit Ninja.exe
+E:\Food Terminator\Food Terminator\Fruit Ninja\obj\Debug\Fruit Ninja.pdb
+E:\Food Terminator\Food Terminator\Fruit Ninja\bin\Debug\Fruit Ninja.exe
+E:\Food Terminator\Food Terminator\Fruit Ninja\bin\Debug\Fruit Ninja.pdb
+E:\Food Terminator\Food Terminator\Fruit Ninja\obj\Debug\Food Terminator.csprojResolveAssemblyReference.cache
+E:\Food Terminator\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.HighscoresForm.resources
+E:\Food Terminator\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.Main.resources
+E:\Food Terminator\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.Properties.Resources.resources
+E:\Food Terminator\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.SettingsForm.resources
+E:\Food Terminator\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.UserForm.resources
+E:\Food Terminator\Food Terminator\Fruit Ninja\obj\Debug\Food Terminator.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\obj\Debug\Food Terminator.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.HighscoresForm.resources
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.Main.resources
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.Properties.Resources.resources
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.SettingsForm.resources
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\obj\Debug\Fruit_Ninja.UserForm.resources
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\obj\Debug\Food Terminator.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\obj\Debug\Fruit Ninja.exe
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\obj\Debug\Fruit Ninja.pdb
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\bin\Debug\Fruit Ninja.exe.config
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\bin\Debug\Fruit Ninja.exe
+\\Mac\Home\Desktop\software engineerng\HCI\Kinect\Food Terminator\Fruit Ninja\bin\Debug\Fruit Ninja.pdb
